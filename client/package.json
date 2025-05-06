@@ -29,15 +29,20 @@
 		"deploy": "gh-pages -d build"
 	},
 	"dependencies": {
+		"@rainbow-me/rainbowkit": "^2.2.4",
 		"@react-three/drei": "^9.78.2",
 		"@react-three/fiber": "^8.13.5",
+		"@wagmi/core": "^2.17.1",
+		"@zoralabs/protocol-sdk": "^0.13.5",
+		"@zoralabs/zora-1155-contracts": "^2.13.2",
 		"framer-motion": "^10.12.18",
 		"maath": "^0.7.0",
 		"react": "^18.2.0",
 		"react-color": "^2.19.3",
 		"react-dom": "^18.2.0",
 		"three": "^0.154.0",
-		"valtio": "^1.10.7"
+		"valtio": "^1.10.7",
+		"viem": "^2.29.0"
 	},
 	"devDependencies": {
 		"@types/react": "^18.0.28",
@@ -56,5 +61,6 @@
 		"vite": "^4.4.1",
 		"vite-aliases": "^0.11.2",
 		"vite-plugin-image-optimizer": "^1.1.6"
-	}
+	},
+	"packageManager": "yarn@1.22.22+sha512.a6b2f7906b721bba3d67d4aff083df04dad64c399707841b7acf00f6b133b7ac24255f2652fa22ae3534329dc6180534e98d17432037ff6fd140556e2bb3137e"
 }
