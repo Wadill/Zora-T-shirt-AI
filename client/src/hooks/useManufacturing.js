@@ -5,7 +5,7 @@ export function useManufacturing() {
       method: 'POST',
       body: JSON.stringify({
         item: "Custom T-Shirt",
-        design: `ipfs://${coinAddress}.png` // Link to design
+        design: `ipfs://${coinAddress}.png` 
       })
     });
   };
