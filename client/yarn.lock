@@ -1144,10 +1144,10 @@
   resolved "https://registry.yarnpkg.com/@pkgjs/parseargs/-/parseargs-0.11.0.tgz#a77ea742fab25775145434eb1d2328cf5013ac33"
   integrity sha512-+1VkjdD0QBLPodGrJUeqarH8VAIvQODIbwh9XpP5Syisf7YoQgsJKPNFoqqLQlu+VQ/tVSshMR6loPMn8U+dPg==
 
-"@rainbow-me/rainbowkit@^2.2.4":
-  version "2.2.4"
-  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit/-/rainbowkit-2.2.4.tgz#a02b79b8be3838046cf4ef54d2d014ac9301fe3b"
-  integrity sha512-LUYBcB5bzLf6/BMdnW3dEFHVqoPkTGcFN3u6WamaIHXuqD9HT+HVAeNlcYvKENBXldN2zNBs1Bt3k8Oy7y5bTw==
+"@rainbow-me/rainbowkit@^2.2.5":
+  version "2.2.5"
+  resolved "https://registry.yarnpkg.com/@rainbow-me/rainbowkit/-/rainbowkit-2.2.5.tgz#b99b7b98fb920bbb9f1db242490ea179145bd637"
+  integrity sha512-UWEffskEeem1HnHolKvR0FO0haA7CYkm1/M3QlKz/K3gc8N1rjLXit9FG3PJ7l/EKn79VQm25mu8ACkNWBI8sA==
   dependencies:
     "@vanilla-extract/css" "1.15.5"
     "@vanilla-extract/dynamic" "2.1.2"
@@ -1437,10 +1437,10 @@
     magic-string "^0.27.0"
     react-refresh "^0.14.0"
 
-"@wagmi/core@^2.17.1":
-  version "2.17.1"
-  resolved "https://registry.yarnpkg.com/@wagmi/core/-/core-2.17.1.tgz#b4ce5294c6ca26c677f9d061255363db9386c176"
-  integrity sha512-tbeNv8HquzrVj2Inv0bv229SejPABnWAmbBNvPJJedYpKStgXlbK4jnRhCf5qG5un3ZO/KYFGQYaghTzWSULGg==
+"@wagmi/core@^2.17.2":
+  version "2.17.2"
+  resolved "https://registry.yarnpkg.com/@wagmi/core/-/core-2.17.2.tgz#3130dd4cee48a27f00fb34cda7c5b77150e48098"
+  integrity sha512-p1z8VU0YuRClx2bdPoFObDF7M2Reitz9AdByrJ+i5zcPCHuJ/UjaWPv6xD7ydhkWVK0hoa8vQ/KtaiEwEQS7Mg==
   dependencies:
     eventemitter3 "5.0.1"
     mipd "0.0.7"
@@ -1451,17 +1451,17 @@
   resolved "https://registry.yarnpkg.com/@webgpu/types/-/types-0.1.60.tgz#4f58e763ce060a81b03ab7ee1ad879c7024923fd"
   integrity sha512-8B/tdfRFKdrnejqmvq95ogp8tf52oZ51p3f4QD5m5Paey/qlX4Rhhy5Y8tgFMi7Ms70HzcMMw3EQjH/jdhTwlA==
 
-"@zoralabs/protocol-deployments@^0.5.4":
-  version "0.5.4"
-  resolved "https://registry.yarnpkg.com/@zoralabs/protocol-deployments/-/protocol-deployments-0.5.4.tgz#871554de84f98ba53c09efc864cab2308861aa3e"
-  integrity sha512-yik05lVdXKyp0wluYbYaLZ5Mn+0Y4NX89VoYWakpJHWzZP+GCUaGpRF75bibezjg0feGjDUY5cPNjTXLo4HhVA==
+"@zoralabs/protocol-deployments@^0.5.5":
+  version "0.5.5"
+  resolved "https://registry.yarnpkg.com/@zoralabs/protocol-deployments/-/protocol-deployments-0.5.5.tgz#bcae7abe0749bac9f6d6d82ac0d985b4debe3d2f"
+  integrity sha512-jRZtMIVBNoIf5TcsaXSgoUY3RDeH0tPLhqv1Oxf/cecVqfPKR5PjX+y92wgbGFBFTj/UqqAJCgyMUFa9yB/m5A==
 
-"@zoralabs/protocol-sdk@^0.13.5":
-  version "0.13.5"
-  resolved "https://registry.yarnpkg.com/@zoralabs/protocol-sdk/-/protocol-sdk-0.13.5.tgz#f0b35342a41ca701fcf13cb3c88dcdd1cf39a5bc"
-  integrity sha512-DJD1m7+OW98TJmjCBPx9X95aV3ten/3uBeQVkygWypaJRcUEbMtYqtcJCZDOpLkFdanh26+pt0n58hNGDqw6Eg==
+"@zoralabs/protocol-sdk@^0.13.6":
+  version "0.13.6"
+  resolved "https://registry.yarnpkg.com/@zoralabs/protocol-sdk/-/protocol-sdk-0.13.6.tgz#07580d7a1be5f0bba7381492b334ab194beac806"
+  integrity sha512-oXVLuGBvCGoi41oD1OnFZNZ03kyc+nquJuBYjuLt+D6IoW3XdFPzUEkKoSaI0YgghCYxTSECpHhe/ywB+OhYTw==
   dependencies:
-    "@zoralabs/protocol-deployments" "^0.5.4"
+    "@zoralabs/protocol-deployments" "^0.5.5"
 
 "@zoralabs/zora-1155-contracts@^2.13.2":
   version "2.13.2"
@@ -2489,10 +2489,10 @@ isexe@^2.0.0:
   resolved "https://registry.yarnpkg.com/isexe/-/isexe-2.0.0.tgz#e8fbf374dc556ff8947a10dcb0572d633f2cfa10"
   integrity sha512-RHxMLp9lnKHGHRng9QFhRCMbYAcVpn69smSGcq3f36xjgVVWThj4qqLbTLlq7Ssj8B+fIQ1EuCEGI2lKsyQeIw==
 
-isows@1.0.6:
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/isows/-/isows-1.0.6.tgz#0da29d706fa51551c663c627ace42769850f86e7"
-  integrity sha512-lPHCayd40oW98/I0uvgaHKWCSvkzY27LjWLbtzOm64yQ+G3Q5npjjbdppU65iZXkK1Zt+kH9pfegli0AYfwYYw==
+isows@1.0.7:
+  version "1.0.7"
+  resolved "https://registry.yarnpkg.com/isows/-/isows-1.0.7.tgz#1c06400b7eed216fbba3bcbd68f12490fc342915"
+  integrity sha512-I1fSfDCZL5P0v33sVqeTDSpcstAg/N+wF5HS033mogOVIp4B+oHC7oOCsA3axAbBSGTJ8QubbNmnIRN/h8U7hg==
 
 its-fine@^1.0.6:
   version "1.2.5"
@@ -3851,17 +3851,17 @@ valtio@^1.10.7:
     proxy-compare "2.6.0"
     use-sync-external-store "1.2.0"
 
-viem@^2.29.0:
-  version "2.29.0"
-  resolved "https://registry.yarnpkg.com/viem/-/viem-2.29.0.tgz#acaf936e534f61a2dfccd8128acce92bc724aba7"
-  integrity sha512-N6GeIuuay/spDyw+5FbSuNIkVN0da+jGOjdlC0bdatIN+N0jtOf9Zfj0pbXgpIJGwnM9ocxzTRt0HZVbHBdL2Q==
+viem@^2.30.0:
+  version "2.30.0"
+  resolved "https://registry.yarnpkg.com/viem/-/viem-2.30.0.tgz#e8f881bdba290db87fbf94302b0427aaa8abe320"
+  integrity sha512-hvO4l5JIOnYPL8imULoFQiVTSkebIqzGHmIfsdMfIHpAgBaCx8rJJH9cXAxQeWCqsFuTmjEj1cX912N7HSCgpQ==
   dependencies:
     "@noble/curves" "1.8.2"
     "@noble/hashes" "1.7.2"
     "@scure/bip32" "1.6.2"
     "@scure/bip39" "1.5.4"
     abitype "1.0.8"
-    isows "1.0.6"
+    isows "1.0.7"
     ox "0.6.9"
     ws "8.18.1"
 
