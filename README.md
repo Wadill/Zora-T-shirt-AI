@@ -64,15 +64,6 @@ Meanwhile, traders can:
 
 ---
 
-## 💡 Zora Protocol Integration
-
-This app meets **WaveHack evaluation requirements**:
-- Uses **Zora Coins SDK** for minting coins from content
-- Supports **creator + trade referrals**
-- Tokenizes every t-shirt as a **ERC-20 coin**
-- Enhances Zora’s creator/trader tools with AI & 3D UX
-- Taps into Base for low-cost, high-speed tokenization
-
 ---
 
 ### Features:
